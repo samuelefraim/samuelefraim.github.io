@@ -84,10 +84,10 @@ author:
   avatar           : "samuel.jpg"
   bio              : "Economics student"
   location         : "Brazil"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : "PUC-RIO"
+  pubmed           : 
+  googlescholar    : 
+  email            : "samuefra@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
